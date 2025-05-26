@@ -1,7 +1,7 @@
 import requests
 
-token = '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'
-database_id = '1ff3e91158cb80f9a221efaaa2ac5666'
+token = ''
+database_id = ''
 
 url = f'https://api.notion.com/v1/databases/{database_id}/query'
 headers = {

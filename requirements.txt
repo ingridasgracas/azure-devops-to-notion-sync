@@ -1,0 +1,7 @@
+requests
+python-dotenv
+schedule
+loguru
+tenacity
+pydantic
+requests
